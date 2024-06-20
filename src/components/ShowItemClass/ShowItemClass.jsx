@@ -26,7 +26,7 @@ export class ShopItemClass extends Component {
     </div>
     );
   }
-};
+}
 
 ShopItemClass.propTypes = {
   brand: PropTypes.string,
